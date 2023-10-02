@@ -1,0 +1,10 @@
+b = []
+a = input('Возраст пользователя: ')
+c = input('Пол пользователя: ')
+d = input('Город пользователя: ')
+y = input('В каком классе учится пользователь: ')
+b.append(a)
+b.append(c)
+b.append(d)
+b.append(y)
+print(b)
