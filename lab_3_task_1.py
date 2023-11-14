@@ -1,0 +1,10 @@
+earth_mass = 5.97237 * 10**30
+sigma_steff_bolc = 5.67036713 * 10**(-8)
+graviti_constant = 6.67408 * 10 **(-11)
+yskorenie_svobodnogo_padeniya = 9.8
+skorost_sveta_v_vakkume = 299792458
+massa_neitrona = 1.00866
+postoyannaya_planka = 6.63 * 10**(-34)
+postoyannaya_avogadro = 6.02 * 10**(23)
+massa_protona = 1.00728
+massa_elektronnaya = 9.11 * 10**(-31)
