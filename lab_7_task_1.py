@@ -13,15 +13,3 @@ def cicloida (a=3):
 
 if __name__ == '__main__':
     cicloida()
-
-def astroida (r=4):
-    t = np.arange(0, 10, 0.1)
-    x = r * (np.sin(t))**3
-    y = r * (np.cos(t))**3
-
-    plt.plot(x, y, ls='--', lw=3)
-    plt.axis('equal')
-    plt.savefig('fig_task1.png')
-
-if __name__ == '__main__':
-    astroida()
